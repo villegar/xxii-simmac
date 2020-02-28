@@ -13,7 +13,8 @@ Organization:
 0. [Getting Started](0.GettingStarted.md): Start here to become familiar with the working space.
 1. [Before the Tutorial](1.BeforeTheTutorial.md): Update the files we will be using during the tutorial.
 2. [Main](2.Main.ipynb): Main slides and working space.
-3. [Rmpi](3.Rmpi.ipynb): Submitting jobs with [SLURM](https://slurm.schedmd.com)
+3. [Hello World with SLURM](3.HelloWorld.ipynb): Execute a Hello World using [SLURM](https://slurm.schedmd.com)
+4. [Rmpi with SLURM](4.Rmpi.ipynb): Submit an Rmpi job with [SLURM](https://slurm.schedmd.com)
 
 .
 
